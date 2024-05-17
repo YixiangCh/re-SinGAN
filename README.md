@@ -4,7 +4,7 @@ We successfully reproduce experiments from ICCV 2019 Best paper "SinGAN: Learnin
 
 > we analyze the reproducibility of SinGAN. In assessing the SinGAN model, we analyze its ability about random sample images generation of different start scales when trained on a specific image and high-resolution image generation when trained on a low-resolution image.
 
-In this repository, we include our reproduction code and data for SinGAN experiments. This code has been modified from the data used in the official project
+In this repository, we include our reproduction code and data for SinGAN experiments. This code has been modified from the data used in the [official project](https://github.com/tamarott/SinGAN). For more applications, please see [official project](https://github.com/tamarott/SinGAN).
 
 ## Code
 
