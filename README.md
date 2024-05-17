@@ -1,4 +1,4 @@
-# [Re]SinGAN: Learning a Generative Model from a Single Natural Image
+# [Re] SinGAN: Learning a Generative Model from a Single Natural Image
 
 We successfully reproduce experiments from ICCV 2019 Best paper "SinGAN: Learning a Generative Model from a Single Natural Image" by Tamar Rott Shaham, Tali Dekel and Tomer Michaeli.
 
